@@ -1,0 +1,9 @@
+{
+  "name": "My Little Routine",
+  "short_name": "Little Routine",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#39204f",
+  "theme_color": "#39204f",
+  "orientation": "portrait"
+}
